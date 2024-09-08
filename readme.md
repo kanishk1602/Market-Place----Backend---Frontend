@@ -1,10 +1,9 @@
 # Supermarket Automation Software (SAS)
 
 ## Introduction
-The Supermarket Automation Software (SAS) is a comprehensive system designed to automate various processes within a supermarket. SAS facilitates efficient sales transactions, inventory management, and sales statistics generation. This document outlines the detailed requirements for the development of SAS.
+The Supermarket Automation Software (SAS) is an all-encompassing system aimed at automating multiple supermarket operations. It streamlines sales transactions, manages inventory, and generates sales statistics. This document provides a detailed overview of the requirements for developing SAS.
 
 ## Scope
-
 The scope of SAS includes:
 
 - Facilitating sales transactions by recording item details, quantities, and prices.
@@ -15,11 +14,9 @@ The scope of SAS includes:
 ## Installation
 
 ### Prerequisites
-
 - Node.js installed on your machine.
 
 ### Steps
-
 1. Clone the repository:
 git clone <repository-url>
 2. Navigate to the project directory:
